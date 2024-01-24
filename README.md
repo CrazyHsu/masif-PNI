@@ -6,7 +6,7 @@ conda activate masifpni_py3613
 conda install -y -c bioconda -c conda-forge biopython biopandas=0.2.3
 conda install -y -c conda-forge pymesh2 numpy=1.19.5 pandas==1.1.5
 conda install -y -c conda-forge tensorflow=1.9.0 absl-py=1.2.0
-pip install sklearn networkx configparser tdqm scikit-learn scipy matplotlib
+pip install sklearn networkx configparser tdqm scikit-learn scipy matplotlib gemmi
 ```
 
 ## Test run
